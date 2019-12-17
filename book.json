@@ -1,0 +1,36 @@
+{
+  "title": "AppInventor那些事",
+  "description": "",
+  "author": "Kevinkun",
+  "language": "zh-hans",
+  "plugins": [
+        "-lunr", "-search", "search-pro",
+		"-sharing",
+        "-back-to-top-button",
+        "chapter-fold",
+        "code",
+        "splitter",
+        "tbfed-pagefooter",
+		"ancre-navigation",
+		"donate",
+		"livereload",
+		"popup"
+
+    ],
+    "pluginsConfig": {
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &copy kevinkun.cn 2019",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+		"donate": {
+            "alipay": "http://cdn.kevinkun.cn/ai/20190526/U5A1TjWlnCQz.jpg?imageslim",
+            "wechat": "http://cdn.kevinkun.cn/ai/20190526/urpVcCSWFylP.jpg?imageslim",
+            "title": "",
+            "button": "打赏作者",
+            "alipayText": "",
+            "wechatText": ""
+        }
+    }
+
+}
