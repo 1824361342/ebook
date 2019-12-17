@@ -4,7 +4,7 @@
 
 aifans at yeah dot net
 
-### QQ群
+### QQ
 
-76191541(wxbit交流群)
+270988017（请注明AppInventor）
 
