@@ -3,6 +3,7 @@
 
 ## 我的作品
 
+- [SocketIO客户端扩展](socketio.html)
 - [比目微数据库.BmobDB](bmob.html)
 - [LeanCloud扩展](leancloud.html)
 - [手机联系人.Contacts](contacts.html)

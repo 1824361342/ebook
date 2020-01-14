@@ -35,3 +35,15 @@
 
     ![mark](http://cdn.kevinkun.cn/ai/20190712/yrpVT6vRwk8K.png?imageslim)
 
+## 如何发送邮件
+
+1.使用活动启动器发送（不会直接发送，需要手机配置邮箱。打开手机邮箱服务，手动点发送）
+
+
+
+![mark](https://cdn.kevinkun.cn/ai/20200111/MVT1MWpsgFdA.png)
+
+
+
+2.使用小白接口发送 （[详见这里](xiaobaiemail.html)）
+

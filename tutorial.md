@@ -1,18 +1,12 @@
 
 # 教程案例
 
-## 画布相关
-
-- [如何写俄罗斯方块](tetrix.html)
-- [如何写贪吃蛇](snake.html)
-- [背景滚动](background.html)
-
-## 网页浏览框相关
-
+- [让中文按照拼音排序](pinyin.html)
+- [用小白接口发送邮件](xiaobaiemail.html)
+- [获取和风天气api接口数据](hefeng.html)
+- [俄罗斯方块游戏](tetrix.html)
+- [贪吃蛇游戏](snake.html)
 - [goeasy实现实时网络聊天室](goeasy.html)
 - [使用网页浏览框显示表格](table.html)
-
-## HTTP客户端相关
-
-- [获取和风天气api接口数据](hefeng.html)
+- [背景滚动](background.html)
 
